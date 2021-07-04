@@ -11,6 +11,10 @@ h2{
 .orange-color{
     color: orange;
 }
+p{
+    text-align: justify;
+    padding: 10px;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
